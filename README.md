@@ -1,4 +1,4 @@
-# Explainable-Driver-Intention-Prediction 🚗🛡
+# Towards safer and understandable driver intention prediction 🚗🛡
 ## ICCV 2025
 
 Mukilan Karuppasamy, Shankar Gangisetty, Shyam Nandan Rai, Carlo Masone, C.V. Jawahar
